@@ -16,3 +16,13 @@ cd funtion -> npm i or npm install
 ```
 
 ![alt text](image.png)
+
+
+```
+Data set in gg colab 
+
+- movies_list.pkl
+- dataset_movie.csv
+- similarity.pkl
+
+```
