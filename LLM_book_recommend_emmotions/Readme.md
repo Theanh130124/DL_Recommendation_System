@@ -28,3 +28,4 @@ notebook - notebook là tên gói Python cài đặt Jupyter Notebook, một mô
 
 ipywidgets (tên đầy đủ: IPython Widgets) là một thư viện Python dùng để tạo các thành phần tương tác (UI widgets) trong môi trường Jupyter Notebook, JupyterLab hoặc Google Colab.
 ```
+
